@@ -1,1 +1,1 @@
-# File-Encrypter
+The Python File Encryption Script is a powerful tool that securely encrypts all types of files. With strong encryption algorithms, password protection, and cross-platform compatibility, it provides an efficient solution for safeguarding your sensitive data.
